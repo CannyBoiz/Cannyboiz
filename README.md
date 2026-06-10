@@ -10,7 +10,7 @@ My core stack revolves around the Microsoft, JS/TS, and Java ecosystems. I am de
 **My Tech Stack:**
 *   **Backend & Architecture:** C# (.NET), Java (Spring Boot), NestJS, REST, Node.js, gRPC
 *   **Frontend:** React (JavaScripts), Next.js, Blazor, Angular
-*   **Cloud, DevOps & Messaging:** Docker, RabbitMQ, Kafka, Azure, CI/CD (GitHub Actions)
+*   **Cloud, DevOps & Messaging:** Docker, k8s, Terraform, RabbitMQ, Kafka, Azure, CI/CD(GitHub Actions & TeamCity)
 *   **Database & Data:** PostgreSQL, MongoDB, SQL
 
 ### 🔭 What I'm currently working on
