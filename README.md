@@ -10,14 +10,14 @@ My core stack revolves around the Microsoft, JS/TS, and Java ecosystems. I am de
 **My Tech Stack:**
 *   **Backend & Architecture:** C# (.NET), Java (Spring Boot), NestJS, REST, Node.js, gRPC
 *   **Frontend:** React (JavaScripts), Next.js, Blazor, Angular
-*   **Cloud, DevOps & Messaging:** Docker, k8s, Terraform, RabbitMQ, Kafka, Azure, CI/CD(GitHub Actions & TeamCity)
+*   **Cloud, DevOps & Messaging:** Docker, k3s, k8s, Terraform, RabbitMQ, Kafka, Azure, CI/CD(GitHub Actions & TeamCity)
 *   **Database & Data:** PostgreSQL, MongoDB, SQL
 
 ### 🔭 What I'm currently working on
-*   Acting as Product Owner and Core Developer in a 13-person SCRUM team, building a **Machine Learning & IoT distributed system** to predict online chess performance using physical telemetry.
-*   Continuously modernizing **ResPawn**, a distributed e-commerce platform, by implementing RabbitMQ and containerizing the architecture.
+*   Building the moblie application for my mom to help her study for Danish citizenship test (Medborgerskabsprøven).
+*   Expanding my DevOps & Cloud skills.
 *   Expanding my TypeScript skills by building full-stack dashboards with Next.js and NestJS.
-*   Learning Golang
+*   Finding SaaS idea to solve any problems that no-one couldn't solve.
 
 ### ⚡ Fun Facts about me
 - 🚫☕ I actually don't like coffee...
