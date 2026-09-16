@@ -16,7 +16,7 @@ My core stack revolves around the Microsoft, JS/TS, and Java ecosystems. I am de
 ### 🔭 What I'm currently working on
 *   Building the moblie application for my mom to help her study for Danish citizenship test (Medborgerskabsprøven).
 *   Expanding my DevOps & Cloud skills.
-*   Expanding my TypeScript skills by building full-stack dashboards with Next.js and NestJS.
+*   Expanding my TypeScript skills to break my OOP comfortable zone.
 *   Finding SaaS idea to solve any problems that no-one couldn't solve.
 
 ### ⚡ Fun Facts about me
