@@ -8,7 +8,7 @@ I don't just write code; I love architecting complex, event-driven systems and t
 My core stack revolves around the Microsoft, JS/TS, and Java ecosystems. I am deeply focused on building scalable backend microservices, seamless frontends, and managing the DevOps pipelines that keep them running. 
 
 **My Tech Stack:**
-*   **Backend & Architecture:** C# (.NET), Java (Spring Boot), NestJS, REST, Node.js, gRPC
+*   **Backend & Architecture:** C# (.NET), Java (Spring Boot), NestJS, Node.js
 *   **Frontend:** React (JavaScripts), Next.js, Blazor, Angular
 *   **Cloud, DevOps & Messaging:** Docker, k3s, k8s, Terraform, RabbitMQ, Kafka, Azure, CI/CD(GitHub Actions & TeamCity)
 *   **Database & Data:** PostgreSQL, MongoDB, SQL
