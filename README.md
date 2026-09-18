@@ -1,42 +1,27 @@
-## Hi there 👋 I'm Phongsathorn (Can)
+# Hi, I'm Phongsathorn (Can)
 
-I'm a Software Engineering student from Thailand, currently based in Denmark. 
+I'm a Software Engineering student from Thailand, based in Denmark. I build backend systems and take them from architecture through cloud deployment, with a focus on platform engineering, DevOps, AI/ML, and event-driven services.
 
-I don't just write code; I love architecting complex, event-driven systems and taking them from concept to cloud deployment. I specialize in DevOps & Cloud, Platform Engineering, and Machine Learning. In general, I also capable in Full-stack development.
+[![Portfolio](https://img.shields.io/badge/Portfolio-cannyboiz.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cannyboiz.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Phongsathorn%20Sreewilai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phongsathorn-sreewilai-515703281/)
 
-### 🚀 What I do
-My core stack revolves around the Microsoft, JS/TS, and Java ecosystems. I am deeply focused on building scalable backend, seamless frontends, and managing the DevOps pipelines that keep them running. 
+## Featured Projects
 
-**My Tech Stack:**
-*   **Backend & Architecture:** C# (.NET), Java (Spring Boot), NestJS, Node.js
-*   **Frontend:** React (JavaScripts), Next.js, Blazor, Angular
-*   **Cloud, DevOps & Messaging:** Docker, k3s, k8s, Terraform, RabbitMQ, Kafka, Azure, CI/CD(GitHub Actions & TeamCity)
-*   **Database & Data:** PostgreSQL, MongoDB, SQL
+- [VAT Catcher Mini](https://github.com/CannyBoiz/VAT-Catcher-Mini) — My first Node.js and TypeScript-focused full-stack application.
+- [ResPawn](https://github.com/CannyBoiz/ResPawn) — A deployed online pawn-shop platform built as containerized, event-driven microservices.
+- [ez-dk-citizen](https://github.com/CannyBoiz/ez-dk-citizen) — An in-progress study app to help my mom prepare for the Danish citizenship test.
+- [cannyboiz-devops-hub](https://github.com/CannyBoiz/cannyboiz-devops-hub) — My platform engineering and cloud infrastructure repository.
+- [Chess-Assistance](https://github.com/Kanku-SEP4-org/Chess-Assistance) — An IoT and ML platform for understanding how environment and habits affect chess performance.
 
-### 🔭 What I'm currently working on
-*   Building the moblie application for my mom to help her study for Danish citizenship test (Medborgerskabsprøven).
-*   Expanding my DevOps & Cloud skills.
-*   Expanding my TypeScript skills to break my OOP comfortable zone.
-*   Finding SaaS idea to solve any problems that no-one couldn't solve.
+## Languages and Tools
 
-### ⚡ Fun Facts about me
-- 🚫☕ I actually don't like coffee...
-- 🔋🥤 ...but I survive purely on Energy Drinks.
-- 🦉💻 I am a massive "Night Owl" (which is when my best code is written).
-- 🎮 Mobile gaming and Airsoft are my go-to ways to disconnect from the screen.
+[![My Skills](https://skillicons.dev/icons?i=dotnet,java,spring,ts,nodejs,express,hono,react,postgres,docker,kubernetes,terraform,azure,aws,githubactions&perline=6)](https://skillicons.dev)
 
-📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/phongsathorn-sreewilai-515703281/) | 🌐 **Portfolio:** [cannyboiz.com](https://cannyboiz.com/)
-<!--
-**MrPAkaCannyBoiz/MrPAkaCannyboiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## GitHub Stats
 
-Here are some ideas to get you started:
+<p>
+  <img src="https://github-stats-extended.vercel.app/api?username=CannyBoiz&show_icons=true&theme=transparent&hide_border=true" alt="Phongsathorn's GitHub statistics" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=CannyBoiz&layout=compact&hide=Jupyter%20Notebook&theme=transparent&hide_border=true" alt="Phongsathorn's top languages" height="180" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://streak-stats.demolab.com?user=CannyBoiz&theme=transparent&hide_border=true" alt="Phongsathorn's GitHub contribution streak" />
