@@ -5,7 +5,7 @@ I'm a Software Engineering student from Thailand, currently based in Denmark.
 I don't just write code; I love architecting complex, event-driven systems and taking them from concept to cloud deployment. I specialize in DevOps & Cloud, Platform Engineering, and Machine Learning. In general, I also capable in Full-stack development.
 
 ### 🚀 What I do
-My core stack revolves around the Microsoft, JS/TS, and Java ecosystems. I am deeply focused on building scalable backend microservices, seamless frontends, and managing the DevOps pipelines that keep them running. 
+My core stack revolves around the Microsoft, JS/TS, and Java ecosystems. I am deeply focused on building scalable backend, seamless frontends, and managing the DevOps pipelines that keep them running. 
 
 **My Tech Stack:**
 *   **Backend & Architecture:** C# (.NET), Java (Spring Boot), NestJS, Node.js
