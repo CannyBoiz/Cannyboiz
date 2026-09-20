@@ -15,7 +15,7 @@ I'm a Software Engineering student from Thailand, based in Denmark. I build back
 
 ## Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,java,spring,ts,nodejs,express,hono,react,postgres,docker,kubernetes,terraform,azure,aws,githubactions&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,java,spring,ts,js,nodejs,nestjs,express,react,python,fastapi,postgres,sqlite,bash,rabbitmq,kafka,docker,kubernetes,terraform,azure,aws,githubactions&perline=6)](https://skillicons.dev)
 
 ## GitHub Stats
 
