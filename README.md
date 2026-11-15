@@ -51,7 +51,7 @@ I'm a Software Engineering student from Thailand, based in Denmark. I build back
 
 <p>
   <img src="https://github-stats-extended.vercel.app/api?username=CannyBoiz&show_icons=true&theme=transparent&hide_border=true" alt="Phongsathorn's GitHub statistics" height="180" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=CannyBoiz&layout=compact&hide=Jupyter%20Notebook&theme=transparent&hide_border=true" alt="Phongsathorn's top languages" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=CannyBoiz&layout=compact&hide=Jupyter%20Notebook,HTML,CSS&theme=transparent&hide_border=true" alt="Phongsathorn's top languages" height="180" />
 </p>
 
 <img src="https://streak-stats.demolab.com?user=CannyBoiz&theme=transparent&hide_border=true" alt="Phongsathorn's GitHub contribution streak" />
