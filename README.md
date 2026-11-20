@@ -10,7 +10,7 @@ I'm a Software Engineering student from Thailand, based in Denmark. I build back
 - [VAT Catcher Mini](https://github.com/CannyBoiz/VAT-Catcher-Mini) - My first Node.js and TypeScript-focused full-stack application.
 - [ResPawn](https://github.com/CannyBoiz/ResPawn) - A deployed online pawn-shop platform built as containerized, event-driven microservices.
 - [ez-dk-citizen](https://github.com/CannyBoiz/ez-dk-citizen)- An in-progress study app to help my mom prepare for the Danish citizenship test.
-- [cannyboiz-devops-hub](https://github.com/CannyBoiz/cannyboiz-devops-hub)(private) - My platform engineering and cloud infrastructure repository.
+- [cannyboiz-devops-hub](https://github.com/CannyBoiz/cannyboiz-devops-hub) - My platform engineering and cloud infrastructure repository.
 - [Chess-Assistance](https://github.com/Kanku-SEP4-org/Chess-Assistance) - An IoT and ML platform for understanding how environment and habits affect chess performance.
 
 ## Languages and Tools
